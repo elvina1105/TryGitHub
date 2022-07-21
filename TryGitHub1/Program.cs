@@ -6,7 +6,22 @@ namespace TryGitHub1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string inputAngka = "0"; int angka;
+            inputAngka = Console.ReadLine();
+            angka = Int32.Parse(inputAngka);
+            if(angka < 11)
+            {
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+            }
+            else
+            {
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+            }
+            
         }
     }
 }
