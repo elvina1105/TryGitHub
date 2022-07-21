@@ -14,6 +14,16 @@ namespace TryGitHub1
                 Console.WriteLine("Hello World!");
                 Console.WriteLine("Hello World!");
             }
+            else if(angka > 10 && angka<20){
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!");
+            }
             else
             {
                 Console.WriteLine("Hello World!");
